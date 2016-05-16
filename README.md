@@ -5,7 +5,7 @@ Home: http://www.gdal.org/
 
 Package license: MIT
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: The Geospatial Data Abstraction Library (GDAL)
 
@@ -69,9 +69,15 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/gdal-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/gdal-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/gdal-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/gdal-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/gdal-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/gdal-feedstock/branch/master)
+
+Current release info
+====================
+Version: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gdal/badges/version.svg)](https://anaconda.org/conda-forge/gdal)
+Downloads: [![Anaconda-Server Badge](https://anaconda.org/conda-forge/gdal/badges/downloads.svg)](https://anaconda.org/conda-forge/gdal)
 
 
 Updating gdal-feedstock
